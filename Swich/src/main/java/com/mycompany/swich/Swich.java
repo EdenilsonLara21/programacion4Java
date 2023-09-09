@@ -11,9 +11,9 @@ package com.mycompany.swich;
 public class Swich {
 
     public static void main(String[] args) {
-         /* swich*/
+         /* swich */
        System.out.print("\n SWICH");
-        int month = 5;
+        int month = 9;
        String monthString;
        switch (month){
            case 1: monthString = "Enero";
